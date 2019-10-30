@@ -122,7 +122,7 @@ root = Tk()
 root.title('PyhonicWay Snake')
 
 
-c = Canvas(root, width=WIDTH, height=HEIGHT, bg="#440055")
+c = Canvas(root, width=WIDTH, height=HEIGHT, bg="#440066")
 c.grid()
 #catch keypressing
 c.focus_set()
